@@ -1,0 +1,9 @@
+#products_table {
+    border:1px solid black;
+}
+#products_table tr:nth-child(odd){ 
+    background: #adcaf1;
+}
+#products_table tr:nth-child(even){
+    background: #dce9fa;
+}
